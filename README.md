@@ -11,8 +11,8 @@
 ## Original Paper : 
 https://github.com/siriwatsc-debug/FinalProject-ML/blob/main/1-s2.0-S0957417425006669-main.pdf
 
-## Original dataset : 
-https://github.com/siriwatsc-debug/FinalProject-ML/edit/main/README.md#:~:text=S0957417425006669%2Dmain.pdf-,AI,-.csv
+## Original dataset (from Paper) : 
+https://github.com/siriwatsc-debug/FinalProject-ML/blob/main/AI.csv
 
 ## Final project Dataset :
 1. Train : https://github.com/siriwatsc-debug/FinalProject-ML/blob/main/train.csv
