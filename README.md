@@ -9,7 +9,7 @@
 * The presentation time is approximately 15 minutes, including Q&A.
 
 ## Original Paper : 
-https://github.com/siriwatsc-debug/FinalProject-ML/edit/main/README.md#:~:text=1%2Ds2.0%2D-,S0957417425006669,-%2Dmain.pdf
+https://github.com/siriwatsc-debug/FinalProject-ML/blob/main/1-s2.0-S0957417425006669-main.pdf
 
 ## Original dataset : 
 https://github.com/siriwatsc-debug/FinalProject-ML/edit/main/README.md#:~:text=S0957417425006669%2Dmain.pdf-,AI,-.csv
