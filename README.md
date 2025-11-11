@@ -15,8 +15,8 @@ https://github.com/siriwatsc-debug/FinalProject-ML/blob/main/1-s2.0-S09574174250
 https://github.com/siriwatsc-debug/FinalProject-ML/edit/main/README.md#:~:text=S0957417425006669%2Dmain.pdf-,AI,-.csv
 
 ## Final project Dataset :
-1. Train : https://github.com/siriwatsc-debug/FinalProject-ML/edit/main/README.md#:~:text=train.-,csv,-Editing%20README.md
-2. Test : https://github.com/siriwatsc-debug/FinalProject-ML/edit/main/README.md#:~:text=test.-,csv,-train.csv
+1. Train : https://github.com/siriwatsc-debug/FinalProject-ML/blob/main/train.csv
+2. Test : https://github.com/siriwatsc-debug/FinalProject-ML/blob/main/test.csv
 
 
    
