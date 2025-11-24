@@ -1,5 +1,8 @@
 # FinalProject-ML
 
+# Presentation : 
+https://docs.google.com/presentation/d/1_Ymbg5B8bA3TBbBLAg62v8E4RjW9Qnvdu0GbJJSJH8s/edit?slide=id.p#slide=id.p
+
 ## Objectives:
 1. Read and understand the paper.
 2. Reproduce its results. (Use all four models from the paper)
