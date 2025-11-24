@@ -1,7 +1,8 @@
-# FinalProject-ML
-
 # Presentation : 
 https://docs.google.com/presentation/d/1_Ymbg5B8bA3TBbBLAg62v8E4RjW9Qnvdu0GbJJSJH8s/edit?slide=id.p#slide=id.p
+
+# FinalProject-ML :
+https://docs.google.com/document/d/13DuAOEGZ_dAhdlwA3UqETZMXU-jXU2cQ0p93rgVQBRQ/edit?usp=sharing
 
 ## Objectives:
 1. Read and understand the paper.
